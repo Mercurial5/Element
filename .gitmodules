@@ -4,3 +4,6 @@
 [submodule "ElementLab2"]
 	path = ElementLab2
 	url = https://github.com/Mercurial5/ElementLab2.git
+[submodule "ElementLab3"]
+	path = ElementLab3
+	url = https://github.com/Mercurial5/ElementLab3.git
